@@ -1,2 +1,3 @@
 # makecode-arcade-games
-Retro games for Makecode Arcade platform
+
+Retro games for Makecode Arcade platform.
